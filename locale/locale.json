@@ -1,0 +1,10 @@
+{
+  "es":  {
+    "long" : "Hecho con orgullo en ${flag}",
+    "short" : "Hecho en ${flag}",
+  },
+  "en": {
+    "long" : "Proudly made in ${flag}",
+    "short": "Made in ${flag}"
+  }
+}
