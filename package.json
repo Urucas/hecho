@@ -1,0 +1,32 @@
+{
+  "name": "hecho",
+  "version": "0.0.1",
+  "description": "Show your are proud of where you build your project",
+  "main": "lib/index.js",
+  "scripts": {
+    "build" : "browserify lib/hecho.js > browser/hecho.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urucas/hecho.git"
+  },
+  "keywords": [
+    "hecho",
+    "made in",
+    "proud",
+    "countries",
+    "flag"
+  ],
+  "author": "Urucas <hello@urucas.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Urucas/hecho/issues"
+  },
+  "homepage": "https://github.com/Urucas/hecho#readme",
+  "dependencies": {
+    "emoji-flag": "^1.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0"
+  }
+}
