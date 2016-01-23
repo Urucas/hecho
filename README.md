@@ -8,3 +8,6 @@ Show you're proud of where you build your product by adding a simple element and
 <hecho locale="en" country="CA" />
 <script src="https://raw.githubusercontent.com/Urucas/hecho/master/browser/hecho.js"></script>
 ```
+
+#Result
+<img src="https://raw.githubusercontent.com/Urucas/hecho/master/screen.png"/>
