@@ -4,7 +4,7 @@
   "description": "Show your are proud of where you build your project",
   "main": "lib/index.js",
   "scripts": {
-    "build" : "browserify lib/hecho.js > browser/hecho.js"
+    "build" : "browserify lib/hecho.js > dist/hecho.js"
   },
   "repository": {
     "type": "git",
