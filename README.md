@@ -6,7 +6,7 @@ Show you're proud of where you build your product by adding a simple element and
 <hecho locale="es" country="AR" />
 <hecho locale="es" country="AR" lenght="short" />
 <hecho locale="en" country="CA" />
-<script src="https://cdn.rawgit.com/Urucas/hecho/master/dist/hecho.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Urucas/hecho@master/dist/hecho.js"></script>
 ```
 
 #Result
